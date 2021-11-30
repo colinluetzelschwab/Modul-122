@@ -1,0 +1,1 @@
+#!/bin/bash# Programm: demo.sh# Aufruf: demo.sh [option]# Demoprogramm für das Erstellen von Shell-Skripten# Autor: L. Cavuoti# Version: 1.1# Datum: 22.05.2019# Zuweisung von Shell-Variablena="Hello "b="Zäme " # Alles klar, oder?echo $a $b
